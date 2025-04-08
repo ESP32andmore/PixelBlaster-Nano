@@ -3,6 +3,7 @@
 
 The PixelBlaster Nano is a feature-rich WLED controller in a compact form factor (32mm x 53 mm), offering high-current capabilities for any addressable lighting project you may have. It has all the features of much larger boards but at a cost point you cannot ignore. 
 It supports virtually all LED strips and serial matrices using single-wire protocols, such as the WS2811 and WS2812B, to SPI (clocked-data) protocol devices, such as the WS2813 and SK9822, in 5V, 12V, 24V, and even the latest 36V strips. 
+<img src="work/PixelBlaster2_front_crop.JPG" width=600> <img src="work/PixelBlaster2_back_crop.JPG" width=600>
 
 ## Features 
 
